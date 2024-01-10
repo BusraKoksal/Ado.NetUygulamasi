@@ -1,0 +1,10 @@
+C:\Users\busra\source\repos\ado.net4.gün\ado.net4.gün\bin\Debug\ado.net4.gün.exe.config
+C:\Users\busra\source\repos\ado.net4.gün\ado.net4.gün\bin\Debug\ado.net4.gün.exe
+C:\Users\busra\source\repos\ado.net4.gün\ado.net4.gün\bin\Debug\ado.net4.gün.pdb
+C:\Users\busra\source\repos\ado.net4.gün\ado.net4.gün\obj\Debug\ado.net4.gün.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\ado.net4.gün\ado.net4.gün\obj\Debug\ado.net4.gün.Form1.resources
+C:\Users\busra\source\repos\ado.net4.gün\ado.net4.gün\obj\Debug\ado.net4.gün.Properties.Resources.resources
+C:\Users\busra\source\repos\ado.net4.gün\ado.net4.gün\obj\Debug\ado.net4.gün.csproj.GenerateResource.cache
+C:\Users\busra\source\repos\ado.net4.gün\ado.net4.gün\obj\Debug\ado.net4.gün.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\ado.net4.gün\ado.net4.gün\obj\Debug\ado.net4.gün.exe
+C:\Users\busra\source\repos\ado.net4.gün\ado.net4.gün\obj\Debug\ado.net4.gün.pdb
